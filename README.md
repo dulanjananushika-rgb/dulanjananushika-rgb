@@ -64,7 +64,7 @@
 | **Restaurant QR System** | Next.js 16, TypeScript, MongoDB, JWT | Real-time multi-role ordering engine connecting customers, kitchen staff, waiters, and cashiers across synchronized state transitions. | [Live Demo](https://restaurant-qr-system-swart.vercel.app) • [Source Code](https://github.com/dulanjananushika-rgb/restaurant-qr-system) |
 | **Device Passport** | Next.js 16, React 19, SQLite, Docker | Verifiable hardware lifecycle & diagnostics platform featuring tamper-proof QR passports and role-switchable staff dashboards. | [Live Demo](https://device-passport-dulanjana.netlify.app) • [Source Code](https://github.com/dulanjananushika-rgb/device-passport) |
 | **Wijewardhana Construction** | Next.js, React Three Fiber, WebGL | Cinematic digital architectural showcase featuring progressive 3D WebGL home construction storytelling. | [Live Site](https://wijewardhana-construction.vercel.app) • [Source Code](https://github.com/dulanjananushika-rgb/wijewardhana-construction) |
-| **TechSphere Phone Shop** | Laravel 12, PHP 8.2, Blade, MySQL | Production-minded commerce system with atomic stock reservations, idempotent checkout, invoices, and protected admin back office. | [Source Code](https://github.com/dulanjananushika-rgb/techsphere-phone-shop) |
+| **TechSphere Phone Shop** | Laravel 12, PHP 8.2, Blade, SQLite | Production-minded commerce system with atomic stock reservations, idempotent checkout, invoices, and protected admin back office. | [Live Store](https://techsphere-phone-shop.vercel.app) • [Source Code](https://github.com/dulanjananushika-rgb/techsphere-phone-shop) |
 
 ---
 
